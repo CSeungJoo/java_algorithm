@@ -1,7 +1,7 @@
 package String;
 
 import java.util.Scanner;
-public class SwitchCase_1 {
+public class String_2 {
 //    방법 1
 //    public static String solution(String str) {
 //        String answer = "";

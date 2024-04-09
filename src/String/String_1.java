@@ -2,7 +2,7 @@ package String;
 
 import java.util.Scanner;
 
-public class findChar_1 {
+public class String_1 {
     public static int solution(String str, char t) {
         int answer = 0;
 
